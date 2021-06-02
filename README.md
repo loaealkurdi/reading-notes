@@ -8,4 +8,4 @@ Hello everyone , it's loay al kurdi 29 year's old lives in amman and i finshed b
 | Task Number | Second Header |
 |------------ | ------------- |
 | 1.Growth mind| [HTML Strture](https://github.com/loaealkurdi/reading-notes/blob/master/GrowthMindest.md) |
-| 2.mark down | [HTML Strture](https://github.com/loaealkurdi/reading-notes/blob/master/markdown.md) |
+| 2.mark down | [HTML Strture](https://github.com/loaealkurdi/reading-notes/blob/master/Markdown.md) |
